@@ -1,2 +1,4 @@
 # dotfiles
-Dotfiles
+Dotfiles 
+
+This repo contains my dotfiles for vim and tmux
